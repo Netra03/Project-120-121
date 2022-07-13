@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(128, 186, 186);
+}
+
+.shirt_and_result {
+    background: gray;
+    border-radius: 20px;
+}
+
+.water_bottle {
+    background: rgb(175, 107, 175);
+    border-radius: 20px;
+}
+
+.phone {
+    background: rgb(132, 75, 75);
+    border-radius: 20px;
+}
+
+h3 {
+    box-shadow: 3px;
+    color: red;
+}
